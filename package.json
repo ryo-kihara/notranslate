@@ -5,9 +5,10 @@
   "main": "content.js",
   "scripts": {
     "build": "tsc",
-    "watch": "tsc -w"
+    "watch": "tsc -w",
+    "postinstall": "npm run build"
   },
-  "author": "kihara",
+  "author": "ryo-kihara",
   "license": "ISC",
   "devDependencies": {
     "typescript": "^4.4.4"
