@@ -35,7 +35,7 @@ or
 
 ![select directory](https://user-images.githubusercontent.com/48352529/141611039-e55b2ba3-a7a7-438a-bc38-cc0b88d5caea.png)
 
-6. Try translating this page.
+6. Please reload this page and try translating it.
 
 ```ts
 interface NOTranselate {
