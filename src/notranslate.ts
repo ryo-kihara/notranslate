@@ -48,4 +48,4 @@ function addNotranslate(target: Element) {
 }
 
 const firstChild = document.firstElementChild
-if (firstChild) setTimeout(addNotranslate, 1000, firstChild)
+if (firstChild) addNotranslate(firstChild)
