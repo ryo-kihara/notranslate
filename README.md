@@ -43,5 +43,7 @@ interface NOTranselate {
   translate: string
 }
 
+console.log('Hello.')
 const translate: NOTranselate = { not: 'not', translate: 'translate' }
+const transfer = false
 ```
