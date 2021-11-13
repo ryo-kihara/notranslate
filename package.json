@@ -1,0 +1,15 @@
+{
+  "name": "notranslate",
+  "version": "1.0.0",
+  "description": "Stop code translate.",
+  "main": "content.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "author": "kihara",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}
