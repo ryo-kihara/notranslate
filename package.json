@@ -2,7 +2,7 @@
   "name": "notranslate",
   "version": "1.0.0",
   "description": "Stop code translate.",
-  "main": "content.js",
+  "main": "./public/notranslate.js",
   "scripts": {
     "build": "tsc",
     "watch": "tsc -w",
